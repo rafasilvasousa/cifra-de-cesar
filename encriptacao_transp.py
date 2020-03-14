@@ -75,3 +75,5 @@ elif opcao1==2: #DECRIPTAR
         print('Opção inválida')
 else:
     print('Opção inválida')
+
+#rafael
